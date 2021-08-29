@@ -19,7 +19,9 @@ An end-to-end machine learning project
 
 
 ## General Information
-The web app is intended for predicting house prices in Boston, United States. Model was trained on the  predefined and cleaned [dataset](https://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_boston.html#sklearn.datasets.load_boston) and can predict price by given parameters. Trained model is saved to model.pkl file.
+Books are the most important friends in one’s life. Books are open doors to the unimagined worlds which is unique to every person. It is more than just a hobby for many. There are many among us who prefer to spend more time with books than anything else. Here we explore a database of books. Books of different genres, from various authors.
+
+The web app is intended for predicting book prices from [bookdepository.com](https://www.bookdepository.com). Model was trained on the  predefined and cleaned dataset: https://github.com/fortune-uwha/book_scraper and can predict price by given parameters. Trained model is saved to model.pkl file.
 
 ## Setup
 * Create Heroku project and Heroku PostgreSQL database
