@@ -10,7 +10,7 @@ from utils.processor import InputProcessor
 
 app = Flask(__name__)
 db_query = Queries()
-cols = ['author', 'edition', 'category', 'released_year']
+cols = ['author', 'edition', 'category']
 
 
 def __init__():
